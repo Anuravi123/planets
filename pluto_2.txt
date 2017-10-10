@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+It is so a planet!! 
+=======
+pluto is a planet
+>>>>>>> 67c2ef988849d25863847534bc370da3e1bcb4ce
